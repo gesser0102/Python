@@ -1,6 +1,4 @@
 import pyautogui
-
-pyautogui.FAILSAFE = False
  
 procurar = "sim"
 
